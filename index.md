@@ -1,6 +1,5 @@
 ---
-title: Cool People
+title: Index
 layout: home
 ---
 
-Hello!
