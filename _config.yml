@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Cool People
 timezone: UTC
 collections:
   posts:
@@ -8,16 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+email: umitmertcakmak@gmail.com
+description: Be nice.
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: DataScienceJrny
+github_username: Umit-Mert
 markdown: kramdown
 theme: minima
 gems:
